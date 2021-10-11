@@ -1,0 +1,11 @@
+{
+  "text": "hello, world!",
+  "username": "A. Nonymous",
+  "attachments": [
+    {
+      "pretext": "pre-hello",
+      "text": "text-world"
+    }
+  ],
+  "icon_url": "http://lorempixel.com/48/48"
+}
